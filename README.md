@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RiakJam
-- 👀 I’m interested in learning Python, Javascript, PHP, c#, and Linux commands.
-- 🌱 I’m currently learning PHP and MySQL
-- 💞️ I’m looking to collaborate on programming
+- 👀 I’m a web developer, I use php, javascript, mysql, HTML and CSS
+- 💞️ I’m ready for any projects
 - 📫 How to reach me, riakjms@gmail.com
 
 <!---
